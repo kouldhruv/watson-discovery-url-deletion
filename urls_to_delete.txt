@@ -1,0 +1,9 @@
+# Add one URL per line.
+# Lines starting with # are ignored.
+# Blank lines are ignored.
+# Example:
+# https://example.com/page-to-remove
+# https://example.com/another-page-to-remove
+
+https://www.brightspeed.com/help/internet/wireless/how-to-set-up-a-guest-network/
+https://www.brightspeed.com/help/internet/modems-and-routers/compatible-modems/
